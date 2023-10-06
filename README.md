@@ -1,0 +1,3 @@
+# student portfolio
+
+Hey! Welcome to my portfolio. I am lerning how to use github....
